@@ -1,0 +1,17 @@
+{
+    "id": "cc.fovea.signals",
+    "name": "Signals: Think Outside the Event",
+    "url": "https://github.com/j3k0/as3-signals",
+    "docUrl": "https://github.com/j3k0/as3-signals",
+    "description": "Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt.",
+    "sourceUrl": "https://github.com/j3k0/as3-signals/releases/download/0.9.0/cc.fovea.signals_0.9.0.airpackage",
+    "type": "src",
+    "version":"0.9.0",
+    "license": {
+        "type": "MIT",
+        "public": true
+    },
+    "dependencies": [],
+    "parameters": [],
+    "tags": [ "fovea", "signals" ]
+}
